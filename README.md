@@ -34,6 +34,6 @@ This project is a real-world retail analytics solution that uses **time series f
 ---
 
 ## 🚀 Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
